@@ -2,6 +2,7 @@
 
 # Data Pipelining with Spark 201
 
+- [00 - Lab setup](00-setup/README.md)
 - [08 - Spark caching](08-caching/README-Spark-Caching.md)
 - [09 - Spark joins](09-joins/README-Spark-Joins.md)
 - [10 - Effective data formats](10-data-formats/README-Effective-Data-Formats.md)
